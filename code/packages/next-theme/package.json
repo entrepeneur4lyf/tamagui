@@ -32,7 +32,7 @@
   "dependencies": {
     "@tamagui/constants": "workspace:*",
     "@tamagui/use-event": "workspace:*",
-    "next": "^15.3.1"
+    "next": "^15.4.7"
   },
   "devDependencies": {
     "@tamagui/build": "workspace:*",
