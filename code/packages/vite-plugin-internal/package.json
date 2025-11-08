@@ -27,7 +27,7 @@
     "@tamagui/build": "workspace:*",
     "@tamagui/config-default": "workspace:*",
     "@vitejs/plugin-react": "^5.1.0",
-    "happy-dom": "^10.11.2",
+    "happy-dom": "^20.0.2",
     "react": "*",
     "vitest": "^4.0.4",
     "vitest-axe": "^0.1.0",
