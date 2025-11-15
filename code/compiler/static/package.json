@@ -71,7 +71,7 @@
     "find-root": "^1.1.0",
     "fs-extra": "^11.2.0",
     "invariant": "^2.2.4",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "react-native-web": "^0.20.0"
   },
   "devDependencies": {
