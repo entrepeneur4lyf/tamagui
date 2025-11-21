@@ -30,7 +30,7 @@
     "react-dom": "*",
     "vite": "^7.1.12",
     "wait-port": "^0.3.0",
-    "zx": "^8.5.5"
+    "zx": "^8.8.5"
   },
   "version": "1.136.6",
   "peerDependencies": {
