@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@remix-run/node": "^2.12.1",
-    "@remix-run/react": "^2.12.1",
+    "@remix-run/react": "^2.17.3",
     "@remix-run/serve": "^2.12.1",
     "@tamagui/config": "^1.136.6",
     "@tamagui/core": "^1.136.6",
